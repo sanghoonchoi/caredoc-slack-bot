@@ -1,1 +1,1 @@
-# caredoc-slack-bot
+# firebase-slack-bot
